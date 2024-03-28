@@ -1,0 +1,17 @@
+{
+  "name": "karigo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "karigo.js",
+  "scripts": {
+    "devStart": "nodemon karigo.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  }
+}
